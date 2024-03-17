@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-10">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1981_num_83_1_2663#Web" label="http://data.persee.fr/doc/rural_0014-2182_1981_num_83_1_2663#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1923_num_3_4_1240_t1_0607_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1923_num_3_4_1240_t1_0607_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3542#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3542#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1963_num_37_2_2349_t1_0206_0000_4#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1963_num_37_2_2349_t1_0206_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_2013_num_41_1_1518#Web" label="http://data.persee.fr/doc/simon_0409-8846_2013_num_41_1_1518#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1986_num_10_1_4841#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1986_num_10_1_4841#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_2000_num_74_3_3544_t1_0405_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_2000_num_74_3_3544_t1_0405_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_1_1720_t1_0110_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_1_1720_t1_0110_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0294-1953_1984_act_19_1_2220#Web" label="http://data.persee.fr/doc/xvii_0294-1953_1984_act_19_1_2220#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1981_num_35_1_1210_t1_0134_0000_3#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1981_num_35_1_1210_t1_0134_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1977_num_54_1_8558_t1_0129_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1977_num_54_1_8558_t1_0129_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1998_num_60_1_2766#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1998_num_60_1_2766#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1999_num_53_2_1891#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1999_num_53_2_1891#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1520#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1520#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1948_num_22_3_1861#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1948_num_22_3_1861#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1980_num_34_2_3673#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1980_num_34_2_3673#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2001_num_32_1_3137_t1_0131_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2001_num_32_1_3137_t1_0131_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2750_t1_0083_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2750_t1_0083_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tlgpa_0249-647x_2001_num_20_1_990#Web" label="http://data.persee.fr/doc/tlgpa_0249-647x_2001_num_20_1_990#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_3_3241_t1_0439_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_3_3241_t1_0439_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1989_num_18_2_2848#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1989_num_18_2_2848#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_1991_act_18_1_1959#Web" label="http://data.persee.fr/doc/shmes_1261-9078_1991_act_18_1_1959#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_2000_num_18_2_1493#Web" label="http://data.persee.fr/doc/sosan_0294-0337_2000_num_18_2_1493#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3291#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3291#Web" />
+      <node id="http://data.persee.fr/doc/saltu_0000-0000_1921_num_1_1_1170#Web" label="http://data.persee.fr/doc/saltu_0000-0000_1921_num_1_1_1170#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2008_num_39_1_3652_t1_0085_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2008_num_39_1_3652_t1_0085_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1923_num_4_1_8241#Web" label="http://data.persee.fr/doc/syria_0039-7946_1923_num_4_1_8241#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_4_1322_t1_0527_0000_4#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_4_1322_t1_0527_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1974_num_15_59_2033#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1974_num_15_59_2033#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_2007_num_61_2_4234_t9_0444_0000_1#Web" label="http://data.persee.fr/doc/scrip_0036-9772_2007_num_61_2_4234_t9_0444_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1963_num_11_1_1111_t1_0110_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1963_num_11_1_1111_t1_0110_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_1_2744_t1_0104_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_1_2744_t1_0104_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_2001_num_19_1_2101_t1_0072_0000_2#Web" label="http://data.persee.fr/doc/russe_1161-0557_2001_num_19_1_2101_t1_0072_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_2000_num_7_2_1708#Web" label="http://data.persee.fr/doc/stice_1265-1338_2000_num_7_2_1708#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_1999_num_48_1_1459#Web" label="http://data.persee.fr/doc/xvii_0291-3798_1999_num_48_1_1459#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_2001_act_31_1_1786#Web" label="http://data.persee.fr/doc/shmes_1261-9078_2001_act_31_1_1786#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1987_num_14_1_1874_t1_0129_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1987_num_14_1_1874_t1_0129_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1978_num_11_1_4095#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1978_num_11_1_4095#Web" />
+      <node id="http://data.persee.fr/doc/vilpa_1274-1728_2017_num_5_1_1681#Web" label="http://data.persee.fr/doc/vilpa_1274-1728_2017_num_5_1_1681#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1987_num_59_3_5674#Web" label="http://data.persee.fr/doc/slave_0080-2557_1987_num_59_3_5674#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1990_num_25_1_2242_t1_0137_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1990_num_25_1_2242_t1_0137_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1980_num_21_1_4752#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1980_num_21_1_4752#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1998_num_72_4_3463#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1998_num_72_4_3463#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_2016_num_193_1_1839_t14_0258_0000_2#Web" label="http://data.persee.fr/doc/vita_0042-7306_2016_num_193_1_1839_t14_0258_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_4_2531_t1_0530_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_4_2531_t1_0530_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1972_num_13_49_1844_t1_0211_0000_3#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1972_num_13_49_1844_t1_0211_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_2010_num_64_1_4073#Web" label="http://data.persee.fr/doc/scrip_0036-9772_2010_num_64_1_4073#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1485#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1485#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1918#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1918#Web" />
+      <node id="http://data.persee.fr/doc/tiers_1293-8882_2003_num_44_173_5482#Web" label="http://data.persee.fr/doc/tiers_1293-8882_2003_num_44_173_5482#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1964_num_41_1_8471_t1_0175_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1964_num_41_1_8471_t1_0175_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1980_num_34_2_1188_t1_0345_0000_3#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1980_num_34_2_1188_t1_0345_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_4_2775_t1_0381_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_4_2775_t1_0381_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1970_num_1_3_1050#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1970_num_1_3_1050#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_3475_t1_0178_0000_1#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_3475_t1_0178_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1923_num_3_3_7296#Web" label="http://data.persee.fr/doc/slave_0080-2557_1923_num_3_3_7296#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_1995_num_2_3_1215_t1_0365_0000_2#Web" label="http://data.persee.fr/doc/stice_1265-1338_1995_num_2_3_1215_t1_0365_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1988_num_79_1_347697_t1_0086_0000_003#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1988_num_79_1_347697_t1_0086_0000_003#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1946_num_1_1_2054#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1946_num_1_1_2054#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_2000_act_30_1_1770#Web" label="http://data.persee.fr/doc/shmes_1261-9078_2000_act_30_1_1770#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_63_2580_t1_0700_0000_2#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_63_2580_t1_0700_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_1978_num_35_1_1553#Web" label="http://data.persee.fr/doc/tigr_0048-7163_1978_num_35_1_1553#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2009_num_40_4_3798_t1_0572_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2009_num_40_4_3798_t1_0572_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_3_3389#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_3_3389#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1979_num_16_1_4417#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1979_num_16_1_4417#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" label="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1998_num_27_4_1211#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1998_num_27_4_1211#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_4_3110_t1_0326_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_4_3110_t1_0326_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1988_num_17_3_2784#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1988_num_17_3_2784#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1979_num_20_78_5848#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1979_num_20_78_5848#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1954_num_28_2_4013_t1_0208_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1954_num_28_2_4013_t1_0208_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1988_num_17_1_2744#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1988_num_17_1_2744#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1161-9473_2001_num_11_2_1976#Web" label="http://data.persee.fr/doc/topoi_1161-9473_2001_num_11_2_1976#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1975_num_4_3_1567#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1975_num_4_3_1567#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1978_num_19_74_2798#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1978_num_19_74_2798#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1976_num_30_1_2788_t1_0178_0000_2#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1976_num_30_1_2788_t1_0178_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_2_5988#Web" label="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_2_5988#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1972_num_45_1_1739_t1_0171_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1972_num_45_1_1739_t1_0171_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_1_2070_t1_0100_0000_4#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_1_2070_t1_0100_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_1993_act_6_1_924#Web" label="http://data.persee.fr/doc/sracf_1159-7151_1993_act_6_1_924#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_2015_num_191_1_1815#Web" label="http://data.persee.fr/doc/vita_0042-7306_2015_num_191_1_1815#Web" />
+      <node id="http://data.persee.fr/doc/sracf_0769-8755_1981_ant_0_1_881#Web" label="http://data.persee.fr/doc/sracf_0769-8755_1981_ant_0_1_881#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1992_num_33_129_4678#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1992_num_33_129_4678#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1990_num_62_4_5937#Web" label="http://data.persee.fr/doc/slave_0080-2557_1990_num_62_4_5937#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1927_t1_0365_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1927_t1_0365_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1764-0733_2002_act_3_1_2846#Web" label="http://data.persee.fr/doc/topoi_1764-0733_2002_act_3_1_2846#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1986_num_27_106_4460#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1986_num_27_106_4460#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1985_num_27_3_2087#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1985_num_27_3_2087#Web" />
+      <node id="http://data.persee.fr/doc/tcfdi_1158-3428_1960_num_19_1958_1628#Web" label="http://data.persee.fr/doc/tcfdi_1158-3428_1960_num_19_1958_1628#Web" />
+      <node id="http://data.persee.fr/doc/tiers_1293-8882_2002_num_43_171_1624#Web" label="http://data.persee.fr/doc/tiers_1293-8882_2002_num_43_171_1624#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_121_3908_t1_0233_0000_5#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_121_3908_t1_0233_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1994_num_71_3_7405#Web" label="http://data.persee.fr/doc/syria_0039-7946_1994_num_71_3_7405#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1985_num_8_1_1223_t1_0155_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1985_num_8_1_1223_t1_0155_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_2001_num_53_1_1617#Web" label="http://data.persee.fr/doc/xvii_0291-3798_2001_num_53_1_1617#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1996_num_51_1_4455#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1996_num_51_1_4455#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1933_num_13_1_7540#Web" label="http://data.persee.fr/doc/slave_0080-2557_1933_num_13_1_7540#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2008_num_79_1_7919_t1_0257_0000_2#Web" label="http://data.persee.fr/doc/slave_0080-2557_2008_num_79_1_7919_t1_0257_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2845_t1_0337_0000_2#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2845_t1_0337_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_63_2568#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_63_2568#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1994_num_43_1_3089_t1_0157_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1994_num_43_1_3089_t1_0157_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2008_num_39_4_3717_t1_0553_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2008_num_39_4_3717_t1_0553_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_4403#Web" label="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_4403#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_3_1732_t1_0327_0000_3#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_3_1732_t1_0327_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1972_num_26_2_983#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1972_num_26_2_983#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1764-0733_2009_act_10_1_2658#Web" label="http://data.persee.fr/doc/topoi_1764-0733_2009_act_10_1_2658#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0400_0000_5#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0400_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1986_num_74_1_347601_t1_0076_0000_004#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1986_num_74_1_347601_t1_0076_0000_004#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_2006_num_32_125_1567#Web" label="http://data.persee.fr/doc/tigr_0048-7163_2006_num_32_125_1567#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_1980_num_8_1_977#Web" label="http://data.persee.fr/doc/simon_0409-8846_1980_num_8_1_977#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1974_num_48_2_2700_t1_0186_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1974_num_48_2_2700_t1_0186_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1764-0733_2000_act_2_1_2796#Web" label="http://data.persee.fr/doc/topoi_1764-0733_2000_act_2_1_2796#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1994_num_103_1_348113_t1_0084_0000_002#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1994_num_103_1_348113_t1_0084_0000_002#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1984_num_26_3_2080_t1_0367_0000_3#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1984_num_26_3_2080_t1_0367_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" label="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1965_num_39_1_2409_t1_0095_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1965_num_39_1_2409_t1_0095_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2349_t1_0170_0000_2#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2349_t1_0170_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_1993_num_129_1_1480#Web" label="http://data.persee.fr/doc/vita_0042-7306_1993_num_129_1_1480#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1961_num_15_2_3088#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1961_num_15_2_3088#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_2002_num_9_1_1508#Web" label="http://data.persee.fr/doc/stice_1265-1338_2002_num_9_1_1508#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1973_num_47_2_4205#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1973_num_47_2_4205#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_3_2323_t1_0376_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_3_2323_t1_0376_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1966_num_7_28_2299#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1966_num_7_28_2299#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1981_num_35_2_1216#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1981_num_35_2_1216#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_1994_num_7_1_1855_t1_0163_0000_5#Web" label="http://data.persee.fr/doc/russe_1161-0557_1994_num_7_1_1855_t1_0163_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1969_num_11_2_1417#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1969_num_11_2_1417#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_1_2825_t1_0174_0000_1#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_1_2825_t1_0174_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_2_5989#Web" label="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_2_5989#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1990_num_118_1_4666#Web" label="http://data.persee.fr/doc/rural_0014-2182_1990_num_118_1_4666#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1985_num_16_1_2103#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1985_num_16_1_2103#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1923_num_3_1_1213_t1_0133_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1923_num_3_1_1213_t1_0133_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1964_num_18_2_3215#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1964_num_18_2_3215#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1988_num_17_1_1978_t1_0141_0000_3#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1988_num_17_1_1978_t1_0141_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1987_num_28_109_4483#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1987_num_28_109_4483#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1987_num_59_4_7863#Web" label="http://data.persee.fr/doc/slave_0080-2557_1987_num_59_4_7863#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1986_num_15_2_4123#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1986_num_15_2_4123#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2349_t1_0162_0000_3#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2349_t1_0162_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1997_num_26_4_1114#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1997_num_26_4_1114#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2013_num_52_1_1068_t11_0221_0000_2#Web" label="http://data.persee.fr/doc/spira_0994-3722_2013_num_52_1_1068_t11_0221_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2000_num_26_1_1500#Web" label="http://data.persee.fr/doc/spira_0994-3722_2000_num_26_1_1500#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_3_6005#Web" label="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_3_6005#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_2005_num_23_2_1649#Web" label="http://data.persee.fr/doc/sosan_0294-0337_2005_num_23_2_1649#Web" />
+      <node id="http://data.persee.fr/doc/vilpa_0242-2794_1980_num_3_1_913#Web" label="http://data.persee.fr/doc/vilpa_0242-2794_1980_num_3_1_913#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1939_num_19_4_3970#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1939_num_19_4_3970#Web" />
+      <node id="http://data.persee.fr/doc/socco_1150-1944_1995_num_22_1_1530#Web" label="http://data.persee.fr/doc/socco_1150-1944_1995_num_22_1_1530#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1962_num_4_2_1099_t1_0198_0000_3#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1962_num_4_2_1099_t1_0198_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1991_num_32_126_5757#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1991_num_32_126_5757#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_2003_num_29_115_1465#Web" label="http://data.persee.fr/doc/tigr_0048-7163_2003_num_29_115_1465#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_1_3084#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_1_3084#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_1_1385#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_1_1385#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_2009_num_33_1_2393#Web" label="http://data.persee.fr/doc/russe_1161-0557_2009_num_33_1_2393#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0110_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0110_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1992_num_33_1_2495#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1992_num_33_1_2495#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0120_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0120_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1975_num_49_3_2734#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1975_num_49_3_2734#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_1996_num_3_1_1279#Web" label="http://data.persee.fr/doc/stice_1265-1338_1996_num_3_1_1279#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_2000_num_77_1_7661_t1_0344_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_2000_num_77_1_7661_t1_0344_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1959_num_36_1_5372#Web" label="http://data.persee.fr/doc/syria_0039-7946_1959_num_36_1_5372#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1866#Web" label="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1866#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1993_num_35_1_2113#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1993_num_35_1_2113#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1963_num_4_15_1345#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1963_num_4_15_1345#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1988_num_19_1_2052_t1_0126_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1988_num_19_1_2052_t1_0126_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_2010_num_67_1_2502#Web" label="http://data.persee.fr/doc/xvii_0291-3798_2010_num_67_1_2502#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1981_num_23_3_2714#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1981_num_23_3_2714#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_4_1449#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_4_1449#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1967_num_8_32_2393#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1967_num_8_32_2393#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1975_num_57_1_1987_t1_0137_0000_1#Web" label="http://data.persee.fr/doc/rural_0014-2182_1975_num_57_1_1987_t1_0137_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1985_num_59_3_4286_t1_0279_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1985_num_59_3_4286_t1_0279_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0362_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0362_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1965_num_44_1_1893#Web" label="http://data.persee.fr/doc/slave_0080-2557_1965_num_44_1_1893#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1986_num_28_1_2033_t1_0114_0000_1#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1986_num_28_1_2033_t1_0114_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1922_num_2_2_1179_t1_0231_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1922_num_2_2_1179_t1_0231_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_1_3062_t1_0091_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_1_3062_t1_0091_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_2010_num_64_2_4104#Web" label="http://data.persee.fr/doc/scrip_0036-9772_2010_num_64_2_4104#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1989_num_24_1_2203_t1_0121_0000_5#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1989_num_24_1_2203_t1_0121_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/tlgpa_0249-647x_1995_hos_4_1_1065#Web" label="http://data.persee.fr/doc/tlgpa_0249-647x_1995_hos_4_1_1065#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_1997_num_12_1_1954#Web" label="http://data.persee.fr/doc/russe_1161-0557_1997_num_12_1_1954#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1161-9473_1995_num_5_2_1596#Web" label="http://data.persee.fr/doc/topoi_1161-9473_1995_num_5_2_1596#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_121_3904#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_121_3904#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1969_num_34_1_1450#Web" label="http://data.persee.fr/doc/rural_0014-2182_1969_num_34_1_1450#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1954_num_8_1_2522_t1_0148_0000_1#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1954_num_8_1_2522_t1_0148_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1980_num_54_1_4257#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1980_num_54_1_4257#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1992_num_35_1_2571#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1992_num_35_1_2571#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1986_num_27_107_4401#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1986_num_27_107_4401#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1965_num_6_23_2145_t1_0790_0000_2#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1965_num_6_23_2145_t1_0790_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1971_num_2_1_1081_t1_0111_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1971_num_2_1_1081_t1_0111_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1988_num_60_3_5789#Web" label="http://data.persee.fr/doc/slave_0080-2557_1988_num_60_3_5789#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1996_num_112_1_348272_t1_0073_0000_004#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1996_num_112_1_348272_t1_0073_0000_004#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1973_num_14_56_1968#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1973_num_14_56_1968#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1964_num_5_19_1136#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1964_num_5_19_1136#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_2001_num_8_3_1483#Web" label="http://data.persee.fr/doc/stice_1265-1338_2001_num_8_3_1483#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1964_num_38_3_4356#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1964_num_38_3_4356#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1977_num_50_1_2044#Web" label="http://data.persee.fr/doc/slave_0080-2557_1977_num_50_1_2044#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1995_num_108_1_348198#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1995_num_108_1_348198#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_1985_num_61_1_1162#Web" label="http://data.persee.fr/doc/tigr_0048-7163_1985_num_61_1_1162#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_2003_ant_20_1_1111#Web" label="http://data.persee.fr/doc/sracf_1159-7151_2003_ant_20_1_1111#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1984_num_26_3_2080_t1_0360_0000_1#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1984_num_26_3_2080_t1_0360_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1932_num_13_4_8317#Web" label="http://data.persee.fr/doc/syria_0039-7946_1932_num_13_4_8317#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_3935#Web" label="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_3935#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" label="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1991_num_31_1_2425_t1_0099_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1991_num_31_1_2425_t1_0099_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_2001_num_8_1_1553#Web" label="http://data.persee.fr/doc/stice_1265-1338_2001_num_8_1_1553#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_8111#Web" label="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_8111#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_1979_act_9_1_1283#Web" label="http://data.persee.fr/doc/shmes_1261-9078_1979_act_9_1_1283#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_124_3966_t1_0943_0000_1#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_124_3966_t1_0943_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1959_num_13_2_3019#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1959_num_13_2_3019#Web" />
+      <node id="http://data.persee.fr/doc/stice_1952-8302_2006_num_13_1_937#Web" label="http://data.persee.fr/doc/stice_1952-8302_2006_num_13_1_937#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2000_num_72_3_6692_t1_0606_0000_2#Web" label="http://data.persee.fr/doc/slave_0080-2557_2000_num_72_3_6692_t1_0606_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_2001_num_72_1_1439_t1_0171_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_2001_num_72_1_1439_t1_0171_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/tcfdi_1158-3428_1963_num_21_1960_1411#Web" label="http://data.persee.fr/doc/tcfdi_1158-3428_1963_num_21_1960_1411#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_4_1855_t1_0430_0000_5#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_4_1855_t1_0430_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_1993_act_22_1_1601#Web" label="http://data.persee.fr/doc/shmes_1261-9078_1993_act_22_1_1601#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1979_num_18_1_4609#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1979_num_18_1_4609#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1985_num_97_1_3073#Web" label="http://data.persee.fr/doc/rural_0014-2182_1985_num_97_1_3073#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1996_num_52_1_3586_t1_0168_0000_3#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1996_num_52_1_3586_t1_0168_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1986_num_10_1_1544#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1986_num_10_1_1544#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2003_num_31_1_1410#Web" label="http://data.persee.fr/doc/spira_0994-3722_2003_num_31_1_1410#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1976_num_2_1_3593#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1976_num_2_1_3593#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_2009_num_63_2_4062#Web" label="http://data.persee.fr/doc/scrip_0036-9772_2009_num_63_2_4062#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1946_num_25_1_4494#Web" label="http://data.persee.fr/doc/syria_0039-7946_1946_num_25_1_4494#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1951_num_28_3_4698_t1_0326_0000_6#Web" label="http://data.persee.fr/doc/syria_0039-7946_1951_num_28_3_4698_t1_0326_0000_6#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1979_num_75_1_2505_t1_0133_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1979_num_75_1_2505_t1_0133_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1982_num_23_91_4144#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1982_num_23_91_4144#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1985_num_57_1_5471#Web" label="http://data.persee.fr/doc/slave_0080-2557_1985_num_57_1_5471#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_2002_num_76_4_3645#Web" label="http://data.persee.fr/doc/rscir_0035-2217_2002_num_76_4_3645#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0294-1953_1979_act_9_1_2158#Web" label="http://data.persee.fr/doc/xvii_0294-1953_1979_act_9_1_2158#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0375_0000_5#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0375_0000_5#Web" />
+      <node id="http://data.persee.fr/doc/socco_1150-1944_2000_num_40_1_1817#Web" label="http://data.persee.fr/doc/socco_1150-1944_2000_num_40_1_1817#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_4_4058_t6_0599_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_4_4058_t6_0599_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_1895_t1_0356_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_1895_t1_0356_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_85_4021_t1_0229_0000_3#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_85_4021_t1_0229_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1963_num_42_1_1810#Web" label="http://data.persee.fr/doc/slave_0080-2557_1963_num_42_1_1810#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1935_num_15_4_1677_t1_0636_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1935_num_15_4_1677_t1_0636_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1981_num_83_1_2672_t1_0151_0000_3#Web" label="http://data.persee.fr/doc/rural_0014-2182_1981_num_83_1_2672_t1_0151_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1961_num_35_1_2275_t1_0075_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1961_num_35_1_2275_t1_0075_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_2000_num_66_1_4582_t1_0186_0000_3#Web" label="http://data.persee.fr/doc/xxs_0294-1759_2000_num_66_1_4582_t1_0186_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_2003_act_24_1_1136#Web" label="http://data.persee.fr/doc/sracf_1159-7151_2003_act_24_1_1136#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_2_1323#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_2_1323#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1982_num_85_1_2751_t1_0095_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1982_num_85_1_2751_t1_0095_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1161-9473_2014_num_19_2_2560#Web" label="http://data.persee.fr/doc/topoi_1161-9473_2014_num_19_2_2560#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1986_num_28_1_2025#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1986_num_28_1_2025#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_2000_num_158_1_1082#Web" label="http://data.persee.fr/doc/vita_0042-7306_2000_num_158_1_1082#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1995_num_49_2_1732#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1995_num_49_2_1732#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1987_num_13_1_1826#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1987_num_13_1_1826#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0424_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0424_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1985_num_7_1_1813_t1_0195_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1985_num_7_1_1813_t1_0195_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1984_num_15_1_2025_t1_0119_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1984_num_15_1_2025_t1_0119_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1929_num_9_1_7430#Web" label="http://data.persee.fr/doc/slave_0080-2557_1929_num_9_1_7430#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1990_num_21_4_2470_t1_0508_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1990_num_21_4_2470_t1_0508_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tcfdi_1140-5082_2005_num_16_2002_1894#Web" label="http://data.persee.fr/doc/tcfdi_1140-5082_2005_num_16_2002_1894#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1963_num_5_2_1142_t1_0185_0000_3#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1963_num_5_2_1142_t1_0185_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2011_num_42_1_3914#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2011_num_42_1_3914#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_1990_num_30_1_1182#Web" label="http://data.persee.fr/doc/xvii_0291-3798_1990_num_30_1_1182#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1925_num_5_3_7343#Web" label="http://data.persee.fr/doc/slave_0080-2557_1925_num_5_3_7343#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_1_6772#Web" label="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_1_6772#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_61_2539#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_61_2539#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1996_num_141_1_3563_t1_0221_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1996_num_141_1_3563_t1_0221_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2013_num_51_1_1070#Web" label="http://data.persee.fr/doc/spira_0994-3722_2013_num_51_1_1070#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_1985_num_13_1_1067#Web" label="http://data.persee.fr/doc/simon_0409-8846_1985_num_13_1_1067#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1977_num_7_1_3885#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1977_num_7_1_3885#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1995_num_67_2_6278_t1_0529_0000_1#Web" label="http://data.persee.fr/doc/slave_0080-2557_1995_num_67_2_6278_t1_0529_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1965_num_16_1_1173#Web" label="http://data.persee.fr/doc/rural_0014-2182_1965_num_16_1_1173#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1983_num_60_1_6795#Web" label="http://data.persee.fr/doc/syria_0039-7946_1983_num_60_1_6795#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1964_num_5_17_1378#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1964_num_5_17_1378#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0110_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0110_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_1_2224_t1_0084_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_1_2224_t1_0084_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1993_num_100_1_348036#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1993_num_100_1_348036#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_2_1327#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1998_num_40_2_1327#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1491#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1491#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1946_num_22_1_1434#Web" label="http://data.persee.fr/doc/slave_0080-2557_1946_num_22_1_1434#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1969_num_46_1_8515_t1_0156_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1969_num_46_1_8515_t1_0156_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_2013_arc_46_1_1605#Web" label="http://data.persee.fr/doc/sracf_1159-7151_2013_arc_46_1_1605#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1984_num_2_1_1787_t1_0122_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1984_num_2_1_1787_t1_0122_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1986_num_11_1_1481#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1986_num_11_1_1481#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1978_num_55_1_6628#Web" label="http://data.persee.fr/doc/syria_0039-7946_1978_num_55_1_6628#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1972_num_3_4_1210#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1972_num_3_4_1210#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1976_num_30_1_2788_t1_0179_0000_2#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1976_num_30_1_2788_t1_0179_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1976_num_6_1_3806#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1976_num_6_1_3806#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_3_4040_t6_0436_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_3_4040_t6_0436_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2835#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2835#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_1993_num_11_2_1269#Web" label="http://data.persee.fr/doc/sosan_0294-0337_1993_num_11_2_1269#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_3_1727#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1971_num_13_3_1727#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1986_num_58_1_5538#Web" label="http://data.persee.fr/doc/slave_0080-2557_1986_num_58_1_5538#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_2_1556_t1_0236_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_2_1556_t1_0236_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_4_6019#Web" label="http://data.persee.fr/doc/slave_0080-2557_1991_num_63_4_6019#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1964_num_6_3_1202_t1_0306_0000_1#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1964_num_6_3_1202_t1_0306_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0291_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0291_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1161-9473_2005_num_12_1_2011#Web" label="http://data.persee.fr/doc/topoi_1161-9473_2005_num_12_1_2011#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1993_num_39_1_2738_t1_0127_0000_6#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1993_num_39_1_2738_t1_0127_0000_6#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1971_num_12_48_1827_t1_0865_0000_2#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1971_num_12_48_1827_t1_0865_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1981_num_12_3_1854#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1981_num_12_3_1854#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1991_num_33_1_2549#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1991_num_33_1_2549#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0392_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0392_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1958_num_35_3_5333_t1_0394_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1958_num_35_3_5333_t1_0394_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_2_2079_t1_0172_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_2_2079_t1_0172_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1979_num_16_1_4436#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1979_num_16_1_4436#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1992_num_33_1_2522#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1992_num_33_1_2522#Web" />
+      <node id="http://data.persee.fr/doc/tiers_1293-8882_1997_num_38_150_5193_t1_0478_0000_4#Web" label="http://data.persee.fr/doc/tiers_1293-8882_1997_num_38_150_5193_t1_0478_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1995_num_69_2_3315#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1995_num_69_2_3315#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_2000_num_29_1_1959#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_2000_num_29_1_1959#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_2_4272#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_2_4272#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1981_num_84_1_2709_t1_0133_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1981_num_84_1_2709_t1_0133_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1979_num_8_2_1876#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1979_num_8_2_1876#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1974_num_15_57_1998#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1974_num_15_57_1998#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1995_num_67_2_6265#Web" label="http://data.persee.fr/doc/slave_0080-2557_1995_num_67_2_6265#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1999_num_28_2_1248#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1999_num_28_2_1248#Web" />
+      <node id="http://data.persee.fr/doc/shmes_1261-9078_2002_act_32_1_1814#Web" label="http://data.persee.fr/doc/shmes_1261-9078_2002_act_32_1_1814#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_1_3568#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_1_3568#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1970_num_47_1_8523_t1_0208_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1970_num_47_1_8523_t1_0208_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1996_num_51_1_4476_t1_0179_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1996_num_51_1_4476_t1_0179_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1972_num_3_2_1176#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1972_num_3_2_1176#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1926_num_6_3_3869#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1926_num_6_3_3869#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_4_1955#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_4_1955#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1976_num_4_1_3724#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1976_num_4_1_3724#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1982_num_87_1_2881#Web" label="http://data.persee.fr/doc/rural_0014-2182_1982_num_87_1_2881#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1993_num_34_133_4840_t1_0220_0000_7#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1993_num_34_133_4840_t1_0220_0000_7#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2001_num_32_4_3187#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2001_num_32_4_3187#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1971_num_43_1_4731#Web" label="http://data.persee.fr/doc/rural_0014-2182_1971_num_43_1_4731#Web" />
+      <node id="http://data.persee.fr/doc/tiers_1293-8882_2005_num_46_184_5612#Web" label="http://data.persee.fr/doc/tiers_1293-8882_2005_num_46_184_5612#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1979_num_19_1_4656#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1979_num_19_1_4656#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1986_num_40_2_1446#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1986_num_40_2_1446#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_1995_num_23_1_1592#Web" label="http://data.persee.fr/doc/simon_0409-8846_1995_num_23_1_1592#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1970_num_47_3_8526_t1_0420_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1970_num_47_3_8526_t1_0420_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1997_num_145_1_3603#Web" label="http://data.persee.fr/doc/rural_0014-2182_1997_num_145_1_3603#Web" />
+      <node id="http://data.persee.fr/doc/saltu_0000-0000_1959_num_4_1_920#Web" label="http://data.persee.fr/doc/saltu_0000-0000_1959_num_4_1_920#Web" />
+      <node id="http://data.persee.fr/doc/spira_2118-724x_2011_sup_47_1_1717#Web" label="http://data.persee.fr/doc/spira_2118-724x_2011_sup_47_1_1717#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1963_num_40_3_8461_t1_0354_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1963_num_40_3_8461_t1_0354_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_2005_num_82_1_8700_t17_0341_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_2005_num_82_1_8700_t17_0341_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1993_num_24_2_2626#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1993_num_24_2_2626#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1992_num_69_1_8618_t1_0241_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1992_num_69_1_8618_t1_0241_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1970_num_1_1_999_t1_0104_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1970_num_1_1_999_t1_0104_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1997_num_115_1_348316_t1_0074_0000_006#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1997_num_115_1_348316_t1_0074_0000_006#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_1978_num_6_1_947#Web" label="http://data.persee.fr/doc/xvii_0291-3798_1978_num_6_1_947#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1950_num_24_3_1920_t1_0373_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1950_num_24_3_1920_t1_0373_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1984_num_25_100_4370#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1984_num_25_100_4370#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1971_num_48_3_6255#Web" label="http://data.persee.fr/doc/syria_0039-7946_1971_num_48_3_6255#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_3_4598_t1_0340_0000_2#Web" label="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_3_4598_t1_0340_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_1993_num_11_1_1254#Web" label="http://data.persee.fr/doc/sosan_0294-0337_1993_num_11_1_1254#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_3993#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_3993#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_1991_num_32_1_1197#Web" label="http://data.persee.fr/doc/xvii_0291-3798_1991_num_32_1_1197#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1998_num_59_1_3804_t1_0193_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1998_num_59_1_3804_t1_0193_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_1994_num_85_1_1300#Web" label="http://data.persee.fr/doc/tigr_0048-7163_1994_num_85_1_1300#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_3_3238#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_3_3238#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1976_num_18_3_1510#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1976_num_18_3_1510#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_2_2823_t1_0223_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_2_2823_t1_0223_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0294-1953_1989_act_29_1_2269#Web" label="http://data.persee.fr/doc/xvii_0294-1953_1989_act_29_1_2269#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2012_num_83_1_8178#Web" label="http://data.persee.fr/doc/slave_0080-2557_2012_num_83_1_8178#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1985_num_5_1_4836#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1985_num_5_1_4836#Web" />
+      <node id="http://data.persee.fr/doc/versa_1285-8412_2012_num_15_1_1146#Web" label="http://data.persee.fr/doc/versa_1285-8412_2012_num_15_1_1146#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_2000_num_77_1_7694#Web" label="http://data.persee.fr/doc/syria_0039-7946_2000_num_77_1_7694#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2005_num_76_1_7211#Web" label="http://data.persee.fr/doc/slave_0080-2557_2005_num_76_1_7211#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1983_num_55_3_5358_t1_0523_0000_1#Web" label="http://data.persee.fr/doc/slave_0080-2557_1983_num_55_3_5358_t1_0523_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_2_1728_t1_0252_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_2_1728_t1_0252_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_1998_num_151_1_1025#Web" label="http://data.persee.fr/doc/vita_0042-7306_1998_num_151_1_1025#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1989_num_63_1_3120_t1_0162_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1989_num_63_1_3120_t1_0162_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/saltu_0000-0000_1923_num_1_1_1188#Web" label="http://data.persee.fr/doc/saltu_0000-0000_1923_num_1_1_1188#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1955_num_9_1_2600_t1_0165_0000_1#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1955_num_9_1_2600_t1_0165_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_86_4038_t1_0485_0000_2#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_86_4038_t1_0485_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/saltu_0000-0000_1962_num_7_1_863#Web" label="http://data.persee.fr/doc/saltu_0000-0000_1962_num_7_1_863#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1965_num_19_1_3230#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1965_num_19_1_3230#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1979_num_10_2_1702#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1979_num_10_2_1702#Web" />
+      <node id="http://data.persee.fr/doc/vilpa_0242-2794_2020_num_49_1_1822#Web" label="http://data.persee.fr/doc/vilpa_0242-2794_2020_num_49_1_1822#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_64_2587#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1975_num_16_64_2587#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2827#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_2_2827#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_2007_num_29_1_2317_t1_0171_0000_1#Web" label="http://data.persee.fr/doc/russe_1161-0557_2007_num_29_1_2317_t1_0171_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_1293-8882_2000_num_41_161_1053#Web" label="http://data.persee.fr/doc/tiers_1293-8882_2000_num_41_161_1053#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1973_num_49_1_1867#Web" label="http://data.persee.fr/doc/rural_0014-2182_1973_num_49_1_1867#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_4029#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_4029#Web" />
+      <node id="http://data.persee.fr/doc/vilpa_0242-2794_2009_num_42_1_1452#Web" label="http://data.persee.fr/doc/vilpa_0242-2794_2009_num_42_1_1452#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1962_num_3_9_1070#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1962_num_3_9_1070#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2002_num_30_1_1418#Web" label="http://data.persee.fr/doc/spira_0994-3722_2002_num_30_1_1418#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_2002_num_30_1_1424#Web" label="http://data.persee.fr/doc/spira_0994-3722_2002_num_30_1_1424#Web" />
+      <node id="http://data.persee.fr/doc/vita_0042-7306_1994_num_136_1_1500#Web" label="http://data.persee.fr/doc/vita_0042-7306_1994_num_136_1_1500#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1987_num_16_1_4198#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1987_num_16_1_4198#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1967_num_46_1_1950#Web" label="http://data.persee.fr/doc/slave_0080-2557_1967_num_46_1_1950#Web" />
+      <node id="http://data.persee.fr/doc/russe_1161-0557_1993_num_5_1_1805_t1_0108_0000_4#Web" label="http://data.persee.fr/doc/russe_1161-0557_1993_num_5_1_1805_t1_0108_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1984_num_38_1_1354_t1_0160_0000_2#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1984_num_38_1_1354_t1_0160_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_2_3362#Web" label="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_2_3362#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1927_num_7_1_1372_t1_0171_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1927_num_7_1_1372_t1_0171_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2361#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2361#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_2016_num_44_1_1772#Web" label="http://data.persee.fr/doc/simon_0409-8846_2016_num_44_1_1772#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_3_2516_t1_0398_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_3_2516_t1_0398_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1982_num_54_4_7821#Web" label="http://data.persee.fr/doc/slave_0080-2557_1982_num_54_4_7821#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1998_num_121_1_348406_t1_0088_0000_002#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1998_num_121_1_348406_t1_0088_0000_002#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_2001_num_75_1_3564#Web" label="http://data.persee.fr/doc/rscir_0035-2217_2001_num_75_1_3564#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1992_num_66_3_3206_t1_0363_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1992_num_66_3_3206_t1_0363_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xvii_0291-3798_1994_num_39_1_1942#Web" label="http://data.persee.fr/doc/xvii_0291-3798_1994_num_39_1_1942#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_3_1737_t1_0370_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_3_1737_t1_0370_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1997_num_71_1_3395#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1997_num_71_1_3395#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1973_num_27_1_999#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1973_num_27_1_999#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1982_num_59_1_6755_t1_0157_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1982_num_59_1_6755_t1_0157_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_2_2306_t1_0227_0000_4#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_2_2306_t1_0227_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1965_num_6_24_2156#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1965_num_6_24_2156#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2011_num_82_4_8137_t11_0756_0000_2#Web" label="http://data.persee.fr/doc/slave_0080-2557_2011_num_82_4_8137_t11_0756_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_4_1586_t1_0493_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_4_1586_t1_0493_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_1_4555_t1_0179_0000_4#Web" label="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_1_4555_t1_0179_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_2007_num_25_3_2081#Web" label="http://data.persee.fr/doc/sosan_0294-0337_2007_num_25_3_2081#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1920_num_1_1_2842#Web" label="http://data.persee.fr/doc/syria_0039-7946_1920_num_1_1_2842#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1995_num_46_1_3161#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1995_num_46_1_3161#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0433_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0433_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1987_num_61_3_3074_t1_0174_0000_1#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1987_num_61_3_3074_t1_0174_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1985_num_59_1_3028_t1_0065_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1985_num_59_1_3028_t1_0065_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/xvi_1774-4466_2005_num_1_1_859#Web" label="http://data.persee.fr/doc/xvi_1774-4466_2005_num_1_1_859#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_2_6825#Web" label="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_2_6825#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_2001_num_78_1_7696#Web" label="http://data.persee.fr/doc/syria_0039-7946_2001_num_78_1_7696#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1978_num_19_75_2822#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1978_num_19_75_2822#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1978_num_9_1_1609#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1978_num_9_1_1609#Web" />
+      <node id="http://data.persee.fr/doc/spira_0994-3722_1992_num_8_1_1978#Web" label="http://data.persee.fr/doc/spira_0994-3722_1992_num_8_1_1978#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1989_num_30_119_3867#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1989_num_30_119_3867#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0109_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0109_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1999_num_30_3_3026#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1999_num_30_3_3026#Web" />
+      <node id="http://data.persee.fr/doc/tcfdi_1140-5082_1981_num_31_1980_1909#Web" label="http://data.persee.fr/doc/tcfdi_1140-5082_1981_num_31_1980_1909#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3141#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3141#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1982_num_54_1_5209#Web" label="http://data.persee.fr/doc/slave_0080-2557_1982_num_54_1_5209#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1990_num_25_1_2240_t1_0127_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1990_num_25_1_2240_t1_0127_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1992_num_33_132_4741_t1_0934_0000_3#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1992_num_33_132_4741_t1_0934_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1976_num_17_66_2645#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1976_num_17_66_2645#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1979_num_75_1_2505_t1_0139_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1979_num_75_1_2505_t1_0139_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1978_num_55_3_6647#Web" label="http://data.persee.fr/doc/syria_0039-7946_1978_num_55_3_6647#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_1928_num_8_1_7397#Web" label="http://data.persee.fr/doc/slave_0080-2557_1928_num_8_1_7397#Web" />
+      <node id="http://data.persee.fr/doc/tigr_0048-7163_1994_num_85_1_1586_t1_0129_0000_1#Web" label="http://data.persee.fr/doc/tigr_0048-7163_1994_num_85_1_1586_t1_0129_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_2_2943_t1_0141_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_2_2943_t1_0141_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_4_3110_t1_0324_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_4_3110_t1_0324_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_1_2809_t1_0124_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_1_2809_t1_0124_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2745#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2745#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2011_num_82_2_8101_t10_0331_0000_2#Web" label="http://data.persee.fr/doc/slave_0080-2557_2011_num_82_2_8101_t10_0331_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_2_6818#Web" label="http://data.persee.fr/doc/slave_0080-2557_2002_num_74_2_6818#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" label="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" label="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/simon_0409-8846_1990_num_18_1_1146#Web" label="http://data.persee.fr/doc/simon_0409-8846_1990_num_18_1_1146#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1983_num_12_3_3836#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1983_num_12_3_3836#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1966_num_7_26_2208#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1966_num_7_26_2208#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1967_num_9_4_1374_t1_0462_0000_1#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1967_num_9_4_1374_t1_0462_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1998_num_58_1_3770_t1_0190_0000_2#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1998_num_58_1_3770_t1_0190_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_3_2775_t1_0395_0000_1#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_3_2775_t1_0395_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_1992_num_10_3_1233#Web" label="http://data.persee.fr/doc/sosan_0294-0337_1992_num_10_3_1233#Web" />
+      <node id="http://data.persee.fr/doc/stice_1265-1338_2002_num_9_1_1499#Web" label="http://data.persee.fr/doc/stice_1265-1338_2002_num_9_1_1499#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1987_num_16_1_1948_t1_0149_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1987_num_16_1_1948_t1_0149_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1998_num_120_1_348390_t1_0110_0000_002#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1998_num_120_1_348390_t1_0110_0000_002#Web" />
+      <node id="http://data.persee.fr/doc/sosan_0294-0337_1985_num_3_2_1003#Web" label="http://data.persee.fr/doc/sosan_0294-0337_1985_num_3_2_1003#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_2_2821#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_2_2821#Web" />
+      <node id="http://data.persee.fr/doc/xxs_0294-1759_1993_num_37_1_2661_t1_0167_0000_4#Web" label="http://data.persee.fr/doc/xxs_0294-1759_1993_num_37_1_2661_t1_0167_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/thlou_0080-2654_1992_num_23_3_2580_t1_0395_0000_2#Web" label="http://data.persee.fr/doc/thlou_0080-2654_1992_num_23_3_2580_t1_0395_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1982_num_59_3_6773#Web" label="http://data.persee.fr/doc/syria_0039-7946_1982_num_59_3_6773#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1967_num_8_32_2388#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1967_num_8_32_2388#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1996_num_70_2_3365_t1_0290_0000_4#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1996_num_70_2_3365_t1_0290_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/vilpa_0242-2794_1982_num_5_1_939#Web" label="http://data.persee.fr/doc/vilpa_0242-2794_1982_num_5_1_939#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1986_num_60_3_3062_t1_0268_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1986_num_60_3_3062_t1_0268_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_1_2825_t1_0147_0000_1#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_1_2825_t1_0147_0000_1#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1985_num_26_102_3512_t1_0469_0000_2#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1985_num_26_102_3512_t1_0469_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1972_num_14_3_1747#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1972_num_14_3_1747#Web" />
+      <node id="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1523_t1_0339_0000_3#Web" label="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1523_t1_0339_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1928_num_9_2_3358#Web" label="http://data.persee.fr/doc/syria_0039-7946_1928_num_9_2_3358#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1984_num_95_1_3052#Web" label="http://data.persee.fr/doc/rural_0014-2182_1984_num_95_1_3052#Web" />
+      <node id="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1821#Web" label="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1821#Web" />
+      <node id="http://data.persee.fr/doc/sotra_0038-0296_1987_num_29_4_2388#Web" label="http://data.persee.fr/doc/sotra_0038-0296_1987_num_29_4_2388#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1978_num_69_1_2370_t1_0129_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1978_num_69_1_2370_t1_0129_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/tiers_0040-7356_1968_num_9_35_5706_t1_0980_0000_4#Web" label="http://data.persee.fr/doc/tiers_0040-7356_1968_num_9_35_5706_t1_0980_0000_4#Web" />
+      <node id="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" label="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" />
+      <node id="http://data.persee.fr/doc/rural_0014-2182_1977_num_66_1_2207_t1_0061_0000_2#Web" label="http://data.persee.fr/doc/rural_0014-2182_1977_num_66_1_2207_t1_0061_0000_2#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1161-9473_2013_num_18_2_2511#Web" label="http://data.persee.fr/doc/topoi_1161-9473_2013_num_18_2_2511#Web" />
+      <node id="http://data.persee.fr/doc/rvart_0035-1326_1994_num_105_1_348161_t1_0078_0000_006#Web" label="http://data.persee.fr/doc/rvart_0035-1326_1994_num_105_1_348161_t1_0078_0000_006#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1979_num_19_1_4627#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1979_num_19_1_4627#Web" />
+      <node id="http://data.persee.fr/doc/topoi_1764-0733_2004_act_6_1_2923#Web" label="http://data.persee.fr/doc/topoi_1764-0733_2004_act_6_1_2923#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1976_num_3_1_3687#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1976_num_3_1_3687#Web" />
+      <node id="http://data.persee.fr/doc/scrip_0036-9772_1974_num_28_1_1054#Web" label="http://data.persee.fr/doc/scrip_0036-9772_1974_num_28_1_1054#Web" />
+      <node id="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_3_3219#Web" label="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_3_3219#Web" />
+      <node id="http://data.persee.fr/doc/sorci_0339-0705_1978_num_12_1_4186#Web" label="http://data.persee.fr/doc/sorci_0339-0705_1978_num_12_1_4186#Web" />
+    </nodes>
+    <edges>
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_1_1720_t1_0110_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1926_num_6_3_3869#Web" id="0" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1937_num_17_1_1720_t1_0110_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1523_t1_0339_0000_3#Web" id="1" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1520#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1927_num_7_1_1372_t1_0171_0000_2#Web" id="2" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1948_num_22_3_1861#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1965_num_39_1_2409_t1_0095_0000_1#Web" id="3" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2750_t1_0083_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1954_num_28_2_4013_t1_0208_0000_3#Web" id="4" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2750_t1_0083_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_1_2070_t1_0100_0000_4#Web" id="5" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_1_2750_t1_0083_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_1895_t1_0356_0000_3#Web" id="6" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3291#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2009_num_40_4_3798_t1_0572_0000_3#Web" id="7" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3291#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_1_2224_t1_0084_0000_2#Web" id="8" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3291#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1999_num_30_3_3026#Web" id="9" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" id="10" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" id="11" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" id="12" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0089_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" id="13" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" id="14" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" id="15" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" id="16" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1959_num_33_1_2215_t1_0084_0000_1#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" id="17" />
+      <edge source="http://data.persee.fr/doc/russe_1161-0557_2001_num_19_1_2101_t1_0072_0000_2#Web" target="http://data.persee.fr/doc/russe_1161-0557_2007_num_29_1_2317_t1_0171_0000_1#Web" id="18" />
+      <edge source="http://data.persee.fr/doc/vilpa_1274-1728_2017_num_5_1_1681#Web" target="http://data.persee.fr/doc/vilpa_0242-2794_2009_num_42_1_1452#Web" id="19" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_4_2531_t1_0530_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0362_0000_2#Web" id="20" />
+      <edge source="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1485#Web" target="http://data.persee.fr/doc/tigr_0048-7163_1978_num_35_1_1553#Web" id="21" />
+      <edge source="http://data.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1485#Web" target="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3141#Web" id="22" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" id="23" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" id="24" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" id="25" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2000_num_31_3_3099_t1_0415_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" id="26" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1976_num_50_4_2775_t1_0381_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1985_num_59_1_3028_t1_0065_0000_2#Web" id="27" />
+      <edge source="http://data.persee.fr/doc/stice_1265-1338_1995_num_2_3_1215_t1_0365_0000_2#Web" target="http://data.persee.fr/doc/stice_1265-1338_2001_num_8_3_1483#Web" id="28" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" id="29" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" id="30" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" id="31" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" id="32" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" id="33" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="34" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="35" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1939_num_20_1_4167_t1_0083_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="36" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" id="37" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" id="38" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1934_num_14_2_1625_t1_0317_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" id="39" />
+      <edge source="http://data.persee.fr/doc/tigr_0048-7163_1978_num_35_1_1553#Web" target="http://data.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3141#Web" id="40" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2009_num_40_4_3798_t1_0572_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_1_2224_t1_0084_0000_2#Web" id="41" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2009_num_40_4_3798_t1_0572_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1999_num_30_3_3026#Web" id="42" />
+      <edge source="http://data.persee.fr/doc/sorci_0339-0705_1979_num_16_1_4417#Web" target="http://data.persee.fr/doc/sorci_0339-0705_1979_num_18_1_4609#Web" id="43" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" id="44" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" id="45" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" id="46" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" id="47" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="48" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="49" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1929_num_10_3_3394#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="50" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1988_num_62_4_3110_t1_0326_0000_3#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1992_num_66_3_3206_t1_0363_0000_2#Web" id="51" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1954_num_28_2_4013_t1_0208_0000_3#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_1_2070_t1_0100_0000_4#Web" id="52" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1954_num_28_2_4013_t1_0208_0000_3#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_1895_t1_0356_0000_3#Web" id="53" />
+      <edge source="http://data.persee.fr/doc/spgeo_0046-2497_1988_num_17_1_2744#Web" target="http://data.persee.fr/doc/spgeo_0046-2497_1986_num_15_2_4123#Web" id="54" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" id="55" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1956_num_30_3_2125_t1_0302_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" id="56" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" id="57" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" id="58" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_2_2153_t1_0207_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" id="59" />
+      <edge source="http://data.persee.fr/doc/rural_0014-2182_1972_num_45_1_1739_t1_0171_0000_2#Web" target="http://data.persee.fr/doc/rural_0014-2182_1978_num_69_1_2370_t1_0129_0000_2#Web" id="60" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_1_2070_t1_0100_0000_4#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1949_num_23_3_1895_t1_0356_0000_3#Web" id="61" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" id="62" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1958_num_32_3_2198_t1_0307_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" id="63" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1927_t1_0365_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_1_1385#Web" id="64" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1927_t1_0365_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_2_1556_t1_0236_0000_3#Web" id="65" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1982_num_13_3_1927_t1_0365_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1992_num_23_3_2580_t1_0395_0000_2#Web" id="66" />
+      <edge source="http://data.persee.fr/doc/slave_0080-2557_1933_num_13_1_7540#Web" target="http://data.persee.fr/doc/slave_0080-2557_1929_num_9_1_7430#Web" id="67" />
+      <edge source="http://data.persee.fr/doc/slave_0080-2557_1933_num_13_1_7540#Web" target="http://data.persee.fr/doc/slave_0080-2557_1965_num_44_1_1893#Web" id="68" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" id="69" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" id="70" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" id="71" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="72" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="73" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1931_num_12_1_8262_t1_0086_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="74" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" target="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" id="75" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" target="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" id="76" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="77" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="78" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1940_num_21_3_8382#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="79" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" id="80" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" id="81" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" id="82" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" id="83" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" id="84" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="85" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="86" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="87" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2013_num_44_2_4127_t8_0298_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="88" />
+      <edge source="http://data.persee.fr/doc/scrip_0036-9772_1977_num_31_1_2825_t1_0174_0000_1#Web" target="http://data.persee.fr/doc/scrip_0036-9772_1951_num_5_1_2361#Web" id="89" />
+      <edge source="http://data.persee.fr/doc/rural_0014-2182_1990_num_118_1_4666#Web" target="http://data.persee.fr/doc/rural_0014-2182_1982_num_87_1_2881#Web" id="90" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" id="91" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" id="92" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" id="93" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0382_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" id="94" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1939_num_19_4_3970#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1935_num_15_4_1677_t1_0636_0000_1#Web" id="95" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" id="96" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" id="97" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" id="98" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" id="99" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="100" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="101" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="102" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_3_2845#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="103" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_1_1385#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_2_1556_t1_0236_0000_3#Web" id="104" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1975_num_6_1_1385#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1992_num_23_3_2580_t1_0395_0000_2#Web" id="105" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1938_num_18_2_1761_t1_0264_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1932_num_12_1_1548_t1_0124_0000_1#Web" id="106" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0110_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0120_0000_3#Web" id="107" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0110_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1971_num_2_1_1081_t1_0111_0000_3#Web" id="108" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1989_num_20_1_2353_t1_0110_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0375_0000_5#Web" id="109" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0120_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1971_num_2_1_1081_t1_0111_0000_3#Web" id="110" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0120_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0375_0000_5#Web" id="111" />
+      <edge source="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1866#Web" target="http://data.persee.fr/doc/sracf_1159-7151_2007_ant_30_1_1821#Web" id="112" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" target="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" id="113" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="114" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="115" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1949_num_26_3_8413_t1_0371_0000_3#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="116" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" id="117" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" id="118" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" id="119" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="120" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="121" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="122" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_2_4026_t6_0285_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="123" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1971_num_2_1_1081_t1_0111_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1986_num_17_3_2197_t1_0375_0000_5#Web" id="124" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" target="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" id="125" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="126" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1924_num_5_2_3042#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="127" />
+      <edge source="http://data.persee.fr/doc/xxs_0294-1759_1991_num_31_1_2425_t1_0099_0000_2#Web" target="http://data.persee.fr/doc/xxs_0294-1759_1985_num_7_1_1813_t1_0195_0000_2#Web" id="128" />
+      <edge source="http://data.persee.fr/doc/xxs_0294-1759_1991_num_31_1_2425_t1_0099_0000_2#Web" target="http://data.persee.fr/doc/xxs_0294-1759_1993_num_37_1_2661_t1_0167_0000_4#Web" id="129" />
+      <edge source="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_124_3966_t1_0943_0000_1#Web" target="http://data.persee.fr/doc/tiers_1293-8882_1997_num_38_150_5193_t1_0478_0000_4#Web" id="130" />
+      <edge source="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_124_3966_t1_0943_0000_1#Web" target="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_86_4038_t1_0485_0000_2#Web" id="131" />
+      <edge source="http://data.persee.fr/doc/tiers_0040-7356_1990_num_31_124_3966_t1_0943_0000_1#Web" target="http://data.persee.fr/doc/tiers_0040-7356_1985_num_26_102_3512_t1_0469_0000_2#Web" id="132" />
+      <edge source="http://data.persee.fr/doc/tcfdi_1158-3428_1963_num_21_1960_1411#Web" target="http://data.persee.fr/doc/tcfdi_1140-5082_1981_num_31_1980_1909#Web" id="133" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_4_4058_t6_0599_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2012_num_43_3_4040_t6_0436_0000_2#Web" id="134" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" id="135" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" id="136" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="137" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="138" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="139" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0102_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="140" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" id="141" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="142" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="143" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="144" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1994_num_25_1_2678_t1_0091_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="145" />
+      <edge source="http://data.persee.fr/doc/rural_0014-2182_1981_num_83_1_2672_t1_0151_0000_3#Web" target="http://data.persee.fr/doc/rural_0014-2182_1979_num_75_1_2505_t1_0139_0000_2#Web" id="146" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0424_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1963_num_40_3_8461_t1_0354_0000_2#Web" id="147" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0424_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_1_4555_t1_0179_0000_4#Web" id="148" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1967_num_44_3_8506_t1_0424_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1928_num_9_2_3358#Web" id="149" />
+      <edge source="http://data.persee.fr/doc/xxs_0294-1759_1985_num_7_1_1813_t1_0195_0000_2#Web" target="http://data.persee.fr/doc/xxs_0294-1759_1993_num_37_1_2661_t1_0167_0000_4#Web" id="150" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1990_num_21_4_2470_t1_0508_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0110_0000_2#Web" id="151" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1990_num_21_4_2470_t1_0508_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_3_2516_t1_0398_0000_1#Web" id="152" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1990_num_21_4_2470_t1_0508_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_2_2306_t1_0227_0000_4#Web" id="153" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" id="154" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" id="155" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1972_num_46_1_2637_t1_0089_0000_4#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" id="156" />
+      <edge source="http://data.persee.fr/doc/rural_0014-2182_1965_num_16_1_1173#Web" target="http://data.persee.fr/doc/rural_0014-2182_1977_num_66_1_2207_t1_0061_0000_2#Web" id="157" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0110_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_3_2516_t1_0398_0000_1#Web" id="158" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_1_2485_t1_0110_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_2_2306_t1_0227_0000_4#Web" id="159" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_1_2224_t1_0084_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1999_num_30_3_3026#Web" id="160" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1977_num_8_2_1556_t1_0236_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1992_num_23_3_2580_t1_0395_0000_2#Web" id="161" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" id="162" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="163" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="164" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2002_num_33_2_3222_t1_0292_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="165" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1981_num_12_3_1854#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_2_2823_t1_0223_0000_2#Web" id="166" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0392_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_1_2809_t1_0124_0000_2#Web" id="167" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1987_num_18_3_2260_t1_0392_0000_3#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_3_2775_t1_0395_0000_1#Web" id="168" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1955_num_29_2_2079_t1_0172_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_4_1955#Web" id="169" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" id="170" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" id="171" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2004_num_35_4_3405_t1_0542_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" id="172" />
+      <edge source="http://data.persee.fr/doc/tiers_1293-8882_1997_num_38_150_5193_t1_0478_0000_4#Web" target="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_86_4038_t1_0485_0000_2#Web" id="173" />
+      <edge source="http://data.persee.fr/doc/tiers_1293-8882_1997_num_38_150_5193_t1_0478_0000_4#Web" target="http://data.persee.fr/doc/tiers_0040-7356_1985_num_26_102_3512_t1_0469_0000_2#Web" id="174" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" id="175" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_2_3293_t1_0235_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" id="176" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1926_num_6_3_3869#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1931_num_11_2_1523_t1_0339_0000_3#Web" id="177" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" id="178" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="179" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2003_num_34_4_3328_t1_0536_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="180" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" id="181" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1971_num_45_4_2628_t1_0385_0000_3#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" id="182" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1957_num_31_1_2144_t1_0098_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1951_num_25_1_1931_t1_0101_0000_3#Web" id="183" />
+      <edge source="http://data.persee.fr/doc/simon_0409-8846_1995_num_23_1_1592#Web" target="http://data.persee.fr/doc/simon_0409-8846_1990_num_18_1_1146#Web" id="184" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1963_num_40_3_8461_t1_0354_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_1_4555_t1_0179_0000_4#Web" id="185" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1963_num_40_3_8461_t1_0354_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1928_num_9_2_3358#Web" id="186" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_2005_num_82_1_8700_t17_0341_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1992_num_69_1_8618_t1_0241_0000_3#Web" id="187" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" id="188" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2007_num_38_4_3627_t1_0589_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="189" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" id="190" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1953_num_30_1_4860_t1_0177_0000_2#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="191" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1998_num_29_4_2979_t1_0534_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2005_num_36_2_3437_t1_0234_0000_3#Web" id="192" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_2010_num_41_1_3815_t1_0124_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_2006_num_37_3_3534_t1_0412_0000_2#Web" id="193" />
+      <edge source="http://data.persee.fr/doc/tiers_0040-7356_1981_num_22_86_4038_t1_0485_0000_2#Web" target="http://data.persee.fr/doc/tiers_0040-7356_1985_num_26_102_3512_t1_0469_0000_2#Web" id="194" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1968_num_42_4_2520_t1_0353_0000_2#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1982_num_56_1_2936_t1_0070_0000_2#Web" id="195" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1991_num_22_3_2516_t1_0398_0000_1#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1988_num_19_2_2306_t1_0227_0000_4#Web" id="196" />
+      <edge source="http://data.persee.fr/doc/rvart_0035-1326_1998_num_121_1_348406_t1_0088_0000_002#Web" target="http://data.persee.fr/doc/rvart_0035-1326_1998_num_120_1_348390_t1_0110_0000_002#Web" id="197" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_2001_num_75_1_3564#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1996_num_70_2_3365_t1_0290_0000_4#Web" id="198" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_2001_num_75_1_3564#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1986_num_60_3_3062_t1_0268_0000_3#Web" id="199" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1950_num_27_1_4555_t1_0179_0000_4#Web" target="http://data.persee.fr/doc/syria_0039-7946_1928_num_9_2_3358#Web" id="200" />
+      <edge source="http://data.persee.fr/doc/thlou_0080-2654_1996_num_27_1_2809_t1_0124_0000_2#Web" target="http://data.persee.fr/doc/thlou_0080-2654_1995_num_26_3_2775_t1_0395_0000_1#Web" id="201" />
+      <edge source="http://data.persee.fr/doc/syria_0039-7946_1944_num_24_1_8398_t1_0133_0000_4#Web" target="http://data.persee.fr/doc/syria_0039-7946_1936_num_17_1_8347_t1_0089_0000_3#Web" id="202" />
+      <edge source="http://data.persee.fr/doc/rscir_0035-2217_1996_num_70_2_3365_t1_0290_0000_4#Web" target="http://data.persee.fr/doc/rscir_0035-2217_1986_num_60_3_3062_t1_0268_0000_3#Web" id="203" />
+    </edges>
+  </graph>
+</gexf>
